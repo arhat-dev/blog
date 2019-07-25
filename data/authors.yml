@@ -1,0 +1,15 @@
+Arhat Dev:
+  type: organization
+  name: Arhat Dev
+  url: https://arhat.dev
+  bio: Cloud Native IoT
+  github: arhat-dev
+
+Jeffrey Stoke:
+  type: person
+  name: Jeffrey Stoke
+  bio: Author of arhat-dev/aranya
+  url: https://me.arhat.dev
+  email: me@arhat.dev
+  github: jeffreystoke
+  avatar: https://avatars3.githubusercontent.com/u/8141075
