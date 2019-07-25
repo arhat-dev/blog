@@ -9,12 +9,10 @@ theme: jekyll-text-theme
 
 text_skin: default
 highlight_theme: tomorrow
-url: https://blog.arhat.dev
+# url: https://blog.arhat.dev
 # baseurl : # does not include hostname
-title: arhat.dev's Blog
+title: Arhat Dev Blog
 description: ""
-email: me@arhat.dev
-baseurl: "" # the subpath of your site, e.g. /blog
 github_username: arhat-dev
 
 # Build settings
